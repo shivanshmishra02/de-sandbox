@@ -1,7 +1,7 @@
 import pandas as pd
 
 INPUT = "sample_transactions.csv"
-OUTPUT = "sales_cleaned.csv"
+OUTPUT = "output/sales_cleaned.csv"
 #test
 
 def clean(df: pd.DataFrame) -> pd.DataFrame:
