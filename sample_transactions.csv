@@ -1,0 +1,21 @@
+id,date,amount,customer_name,category,quantity,payment_method,shipping_status,store_location,is_member
+101,2026-01-01,381.07,Alice,Home,5,PayPal,Delivered,Chicago,True
+102,2026-01-02,951.14,Bob,Clothing,2,Debit Card,Processing,Miami,False
+103,2026-01-03,734.73,Charlie,Groceries,4,Apple Pay,Delivered,Los Angeles,True
+104,2026-01-04,602.81,Diana,Groceries,7,Credit Card,Delivered,Los Angeles,True
+105,2026-01-05,164.86,Evan,Home,8,PayPal,Delivered,New York,False
+106,2026-01-06,164.84,Fiona,Groceries,3,Apple Pay,Processing,Houston,True
+107,2026-01-07,67.97,George,Groceries,1,Credit Card,Delivered,New York,True
+108,2026-01-08,867.49,Hannah,Electronics,4,Apple Pay,Cancelled,Houston,True
+109,2026-01-09,605.24,Ian,Home,2,Credit Card,Delivered,Los Angeles,True
+110,2026-01-10,711.07,Julia,Books,8,PayPal,Cancelled,New York,True
+111,2026-01-11,30.87,Alice,Home,4,Debit Card,Cancelled,Miami,False
+112,2026-01-12,970.13,Bob,Books,2,Credit Card,Cancelled,Chicago,False
+113,2026-01-13,834.12,Charlie,Electronics,6,Apple Pay,Processing,Houston,False
+114,2026-01-14,220.59,Diana,Clothing,6,PayPal,Processing,Chicago,True
+115,2026-01-15,190.4,Evan,Groceries,4,Credit Card,Processing,Chicago,True
+116,2026-01-16,191.96,Fiona,Electronics,6,Apple Pay,Delivered,New York,True
+117,2026-01-17,311.52,George,Groceries,2,Apple Pay,Cancelled,Chicago,False
+119,2026-01-19,437.87,Ian,Clothing,4,Credit Card,Processing,Chicago,True
+120,2026-01-20,298.64,Julia,Electronics,8,Credit Card,Delivered,New York,False
+109,2026-01-09,605.25,Ian,Home,2,Credit Card,Delivered,Los Angeles,True
