@@ -1,8 +1,8 @@
 import pandas as pd
 
 INPUT = "sample_transactions.csv"
-OUTPUT = "sales_cleaned.csv"
-#test
+OUTPUT = "sales_clean_v2.csv"
+
 
 def clean(df: pd.DataFrame) -> pd.DataFrame:
     return (
